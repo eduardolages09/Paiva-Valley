@@ -1,0 +1,22 @@
+# Material de trabalho que não vai para o repositório (é público):
+# o dossiê tem reviews com nomes de hóspedes e fotos recolhidas das
+# plataformas; o arquivo guarda versões antigas do site; as pastas de fotos
+# são os originais e as ampliações (pesadas). O site só usa as cópias
+# preparadas que estão em site/assets/.
+dossie/
+arquivo/
+revisao/
+fotos-ampliadas/
+fotos-dono/
+fotos-regiao/
+
+# gerado pelos scripts
+scripts/__pycache__/
+
+# sistema
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# propostas comerciais (preços e contactos): não vão para o repositório público
+proposta/

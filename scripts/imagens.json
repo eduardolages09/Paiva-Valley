@@ -1,0 +1,717 @@
+{
+ "hero-vale": {
+  "src": "exterior/vista-01.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   2000,
+   1500
+  ],
+  "800": [
+   800,
+   600
+  ],
+  "1400": [
+   1400,
+   1050
+  ]
+ },
+ "casa-caminho": {
+  "src": "exterior/fachada-02.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "casa-pedra": {
+  "src": "exterior/fachada-01.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "casa-nevoeiro": {
+  "src": "exterior/vista-02.jpg",
+  "receita": {
+   "sat": 0.86,
+   "quente": 2,
+   "luz": [
+    1.12,
+    0.3,
+    0.7
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "casas-muro": {
+  "src": "exterior/fachada-05.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "casa-anoitecer": {
+  "src": "exterior/fachada-03.jpg",
+  "receita": {
+   "sat": 0.86,
+   "quente": 2,
+   "luz": [
+    1.0,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "muro-pedra": {
+  "src": "exterior/jardim-02.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "tanque": {
+  "src": "exterior/detalhe-01.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1800,
+   2400
+  ],
+  "800": [
+   800,
+   1067
+  ],
+  "1400": [
+   1400,
+   1867
+  ]
+ },
+ "terreiro-vale": {
+  "src": "exterior/vista-05.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "terreiro-mesas": {
+  "src": "exterior/refeicoes-04.jpg",
+  "receita": {
+   "sat": 0.86,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "terreiro-mesa-posta": {
+  "src": "exterior/refeicoes-03.jpg",
+  "receita": {
+   "sat": 0.86,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "ritmo-deck": {
+  "src": "exterior/refeicoes-01.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "ritmo-sofas": {
+  "src": "exterior/refeicoes-02.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "sombras": 0.05
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "segredo-sala": {
+  "src": "interior/sala-01.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "escadas-pergola": {
+  "src": "exterior/jardim-01.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "arvore-pergola": {
+  "src": "exterior/jardim-04.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "luz": [
+    1.25,
+    0.4,
+    0.66
+   ]
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "janela-serra": {
+  "src": "exterior/vista-04.jpg",
+  "receita": {
+   "sat": 0.8,
+   "quente": 2,
+   "sombras": 0.05
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "paiva-1": {
+  "src": "interior/quarto-01.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "paiva-2": {
+  "src": "interior/quarto-02.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "vau-1": {
+  "src": "interior/quarto-03.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "vau-2": {
+  "src": "interior/quarto-04.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "arainho-1": {
+  "src": "interior/quarto-05.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "arainho-2": {
+  "src": "interior/quarto-06.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "cozinha": {
+  "src": "interior/cozinha-01.jpg",
+  "receita": {
+   "sat": 0.84,
+   "quente": 5,
+   "sombras": 0.07
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "serra-nevoeiro": {
+  "src": "exterior/vista-03.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   3300,
+   1200
+  ],
+  "800": [
+   800,
+   291
+  ],
+  "1400": [
+   1400,
+   509
+  ],
+  "2000": [
+   2000,
+   727
+  ]
+ },
+ "rio-largo": {
+  "src": "regiao/regiao-02.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "rio-tronco": {
+  "src": "regiao/regiao-03.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1800,
+   2400
+  ],
+  "800": [
+   800,
+   1067
+  ],
+  "1400": [
+   1400,
+   1867
+  ]
+ },
+ "rio-encostas": {
+  "src": "regiao/regiao-07.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "cascata": {
+  "src": "regiao/regiao-08.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "rio-rapidos": {
+  "src": "regiao/regiao-05.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "rio-ponte": {
+  "src": "regiao/regiao-06.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "vale-alto": {
+  "src": "regiao/regiao-09.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ },
+ "sobreiros": {
+  "src": "regiao/regiao-10.jpg",
+  "receita": {
+   "sat": 0.82,
+   "quente": 0,
+   "sombras": 0.06
+  },
+  "full": [
+   1600,
+   1600
+  ],
+  "800": [
+   800,
+   800
+  ],
+  "1400": [
+   1400,
+   1400
+  ]
+ }
+}

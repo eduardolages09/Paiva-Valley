@@ -1,0 +1,263 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-10T11:37:21Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 24934620,
+  "lat": 40.9521100,
+  "lon": -8.1028000,
+  "tags": {
+    "capital": "8",
+    "name": "Cabril",
+    "place": "village",
+    "population": "414",
+    "population:date": "2011",
+    "wikidata": "Q64654",
+    "wikimedia_commons": "Category:Cabril (Castro Daire)",
+    "wikipedia": "pt:Cabril (Castro Daire)"
+  }
+},
+{
+  "type": "node",
+  "id": 568176457,
+  "lat": 41.0012055,
+  "lon": -8.1765373,
+  "tags": {
+    "capital": "8",
+    "name": "Nespereira",
+    "place": "town",
+    "population": "1977",
+    "population:date": "2011",
+    "wikidata": "Q64355",
+    "wikimedia_commons": "Category:Nespereira (Cinfães)",
+    "wikipedia": "pt:Nespereira (Cinfães)"
+  }
+},
+{
+  "type": "node",
+  "id": 1027820932,
+  "lat": 40.9655099,
+  "lon": -8.1599881,
+  "tags": {
+    "capital": "8",
+    "name": "Alvarenga",
+    "place": "village",
+    "population": "1223",
+    "population:date": "2011",
+    "wikidata": "Q2257628",
+    "wikipedia": "en:Alvarenga (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 1207711237,
+  "lat": 40.9289214,
+  "lon": -8.2441746,
+  "tags": {
+    "capital": "7",
+    "name": "Arouca",
+    "name:uk": "Арока",
+    "place": "town",
+    "population": "22360",
+    "population:date": "2011",
+    "wikidata": "Q565302",
+    "wikipedia": "en:Arouca, Portugal"
+  }
+},
+{
+  "type": "node",
+  "id": 1222055599,
+  "lat": 40.9258493,
+  "lon": -8.1498928,
+  "tags": {
+    "name": "Janarde",
+    "place": "village",
+    "population": "119",
+    "population:date": "2011",
+    "wikidata": "Q2257690",
+    "wikimedia_commons": "Category:Janarde",
+    "wikipedia": "pt:Janarde"
+  }
+},
+{
+  "type": "node",
+  "id": 1240219459,
+  "lat": 40.9149645,
+  "lon": -8.2262788,
+  "tags": {
+    "capital": "8",
+    "name": "Moldes",
+    "place": "village",
+    "population": "1257",
+    "population:date": "2011",
+    "wikidata": "Q2261239",
+    "wikimedia_commons": "Category:Moldes (Arouca)",
+    "wikipedia": "pt:Moldes (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 1327754862,
+  "lat": 40.9388176,
+  "lon": -8.3135656,
+  "tags": {
+    "capital": "8",
+    "name": "Tropeço",
+    "place": "village",
+    "population": "1150",
+    "population:date": "2011",
+    "wikidata": "Q2259582",
+    "wikimedia_commons": "Category:Tropeço",
+    "wikipedia": "pt:Tropeço"
+  }
+},
+{
+  "type": "node",
+  "id": 3429166477,
+  "lat": 40.9727456,
+  "lon": -8.2013043,
+  "tags": {
+    "capital": "8",
+    "name": "Canelas",
+    "place": "village",
+    "population": "801",
+    "population:date": "2011",
+    "wikidata": "Q2258051",
+    "wikimedia_commons": "Category:Canelas (Arouca)",
+    "wikipedia": "en:Canelas (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 3997967401,
+  "lat": 40.9882652,
+  "lon": -8.2222888,
+  "tags": {
+    "name": "Espiunca",
+    "place": "village",
+    "population": "382",
+    "population:date": "2011",
+    "wikidata": "Q2259361",
+    "wikimedia_commons": "Category:Cabreiros (Arouca)",
+    "wikipedia": "pt:Cabreiros (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 4036692883,
+  "lat": 40.9210710,
+  "lon": -8.2579671,
+  "tags": {
+    "name": "Burgo",
+    "place": "village",
+    "population": "1993",
+    "population:date": "2011",
+    "wikidata": "Q2253327",
+    "wikipedia": "pt:Burgo (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 4036692884,
+  "lat": 40.9274489,
+  "lon": -8.2777004,
+  "tags": {
+    "capital": "8",
+    "name": "Santa Eulália",
+    "place": "village",
+    "population": "2253",
+    "population:date": "2011",
+    "wikidata": "Q1854995",
+    "wikimedia_commons": "Category:Santa Eulália (Arouca)",
+    "wikipedia": "pt:Santa Eulália (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 4036692885,
+  "lat": 40.9162940,
+  "lon": -8.2904033,
+  "tags": {
+    "capital": "8",
+    "name": "Urrô",
+    "place": "village",
+    "population": "1029",
+    "population:date": "2011",
+    "wikidata": "Q1851897",
+    "wikimedia_commons": "Category:Urrô (Arouca)",
+    "wikipedia": "pt:Urrô (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 4036692886,
+  "lat": 40.9253413,
+  "lon": -8.3059816,
+  "tags": {
+    "capital": "8",
+    "name": "Várzea",
+    "place": "village",
+    "population": "540",
+    "population:date": "2011",
+    "wikidata": "Q2129900",
+    "wikimedia_commons": "Category:Várzea (Arouca)",
+    "wikipedia": "pt:Várzea (Arouca)"
+  }
+},
+{
+  "type": "node",
+  "id": 4037007450,
+  "lat": 41.0046851,
+  "lon": -8.3059719,
+  "tags": {
+    "capital": "8",
+    "name": "Paraíso",
+    "place": "village",
+    "population": "924",
+    "population:date": "2011",
+    "wikidata": "Q1023427",
+    "wikimedia_commons": "Category:Paraíso (Castelo de Paiva)",
+    "wikipedia": "pt:Paraíso (Castelo de Paiva)"
+  }
+},
+{
+  "type": "node",
+  "id": 4037007452,
+  "lat": 41.0146101,
+  "lon": -8.2696594,
+  "tags": {
+    "capital": "8",
+    "name": "Real",
+    "place": "village",
+    "population": "1300",
+    "population:date": "2011",
+    "wikidata": "Q1008953",
+    "wikimedia_commons": "Category:Real (Castelo de Paiva)",
+    "wikipedia": "pt:Real (Castelo de Paiva)"
+  }
+},
+{
+  "type": "node",
+  "id": 4263642549,
+  "lat": 41.0299683,
+  "lon": -8.2041691,
+  "tags": {
+    "capital": "8",
+    "name": "Fornelos",
+    "place": "village",
+    "population": "703",
+    "population:date": "2011",
+    "wikidata": "Q64399",
+    "wikimedia_commons": "Category:Fornelos (Cinfães)",
+    "wikipedia": "pt:Fornelos (Cinfães)"
+  }
+}
+
+  ]
+}
